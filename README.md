@@ -2,6 +2,7 @@
 
 NFT Tools consists of various NFT related tools for experimentation and learning.
 
+![](logo.png)
 
 # [On-Chain Emoji NFT](on_chain_emoji_nft/README.md)
 
